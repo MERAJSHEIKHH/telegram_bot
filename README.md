@@ -1,5 +1,33 @@
-# meraj 
--meraj
--seraj
+## this written text will be typed in readme.file
 
-how are you 
+
+# telegram_bot
+
+
+
+## perquisites s
+
+
+-python 3.7
+
+-a telegram account
+
+-an OpenAI account for API keys 
+
+
+## how to run a code 
+
+"""bash 
+conda create -n telebot python = 3.7 -y
+"""
+
+
+"""bash 
+then activate this virtual env 
+"""
+
+"""bash
+
+pip install -r requirements.txt
+
+ """
