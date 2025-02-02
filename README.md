@@ -5,7 +5,8 @@
 
 
 
-## perquisites
+## perquisites s
+
 
 -python 3.7
 -a telegram account
