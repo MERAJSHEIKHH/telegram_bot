@@ -17,9 +17,9 @@
 
 ## how to run a code 
 
-"""bash 
+'''bash 
 conda create -n telebot python = 3.7 -y
-"""
+'''
 
 
 """bash 
