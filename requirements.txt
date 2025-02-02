@@ -1,0 +1,4 @@
+python-dotenv   # to keep api or other important credential as a secret 
+aiogram    # provide functionality to connect with telegram 
+# go and search aiogram documentation u will se a whole code 
+openai   # search open ai documentation and see prices of different packages we r using gpt 3.5 turbo 
