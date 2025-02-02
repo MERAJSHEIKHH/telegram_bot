@@ -15,19 +15,19 @@
 -an OpenAI account for API keys 
 
 
-## how to run a code 
+## how to run a code:
 
-'''bash 
+```bash 
 conda create -n telebot python = 3.7 -y
-'''
+```
 
 
-"""bash 
+
 then activate this virtual env 
-"""
 
-"""bash
-
+```bash
+conda activate telebot
+```
+```bash
 pip install -r requirements.txt
-
- """
+```
