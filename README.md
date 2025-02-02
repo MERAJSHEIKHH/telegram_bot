@@ -5,7 +5,7 @@
 
 
 
-## perquisites s
+## perquisites:
 
 
 -python 3.7
@@ -28,6 +28,7 @@ then activate this virtual env
 ```bash
 conda activate telebot
 ```
+download requirements file 
 ```bash
 pip install -r requirements.txt
 ```
